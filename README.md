@@ -103,60 +103,45 @@ This project demonstrates modern frontend development using reusable React compo
 
 # 📸 Screenshots
 
-## 🏠 Home
+### 🏠 Home & Destinations
+
+| Home | Destinations |
+|------|--------------|
+| ![](screenshots/01-home.png) | ![](screenshots/02-destinations.png) |
+
+---
+
+### ✈️ Tour Packages & Why Choose Us
+
+| Tour Packages | Why Choose Us |
+|--------------|---------------|
+| ![](screenshots/03-packages.png) | ![](screenshots/04-why-us.png) |
+
+---
+
+### 🖼️ Gallery & Travel Blog
+
+| Gallery | Travel Blog |
+|---------|-------------|
+| ![](screenshots/05-gallery.png) | ![](screenshots/06-blog.png) |
+
+---
+
+### ❓ FAQs & Contact
+
+| FAQs | Contact |
+|------|---------|
+| ![](screenshots/07-faqs.png) | ![](screenshots/08-contact.png) |
+
+---
+
+### 📱 Mobile Preview
 
 <p align="center">
-  <img src="screenshots/01-home.png" width="90%">
+  <img src="screenshots/09-mobile-preview.png" alt="Mobile Preview" width="300">
 </p>
 
-## 🌍 Popular Destinations
-
-<p align="center">
-  <img src="screenshots/02-destinations.png" width="90%">
-</p>
-
-## ✈️ Tour Packages
-
-<p align="center">
-  <img src="screenshots/03-packages.png" width="90%">
-</p>
-
-## ⭐ Why Choose Us
-
-<p align="center">
-  <img src="screenshots/04-why-us.png" width="90%">
-</p>
-
-## 🖼️ Travel Gallery
-
-<p align="center">
-  <img src="screenshots/05-gallery.png" width="90%">
-</p>
-
-## 📝 Travel Blog
-
-<p align="center">
-  <img src="screenshots/06-blog.png" width="90%">
-</p>
-
-## ❓ Frequently Asked Questions
-
-<p align="center">
-  <img src="screenshots/07-faqs.png" width="90%">
-</p>
-
-## 📞 Contact & Booking
-
-<p align="center">
-  <img src="screenshots/08-contact.png" width="90%">
-</p>
-
-## 📱 Mobile Responsive Design
-
-<p align="center">
-  <img src="screenshots/09-mobile-preview.png" width="35%">
-</p>
-
+---
 ---
 
 # 📂 Project Structure
